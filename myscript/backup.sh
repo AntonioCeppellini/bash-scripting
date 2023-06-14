@@ -14,4 +14,4 @@ cp -r $source/$file $dest/$file
 fi
 done
 
-#use cronetab to set a time
+#use cronetab to set when and how often do you want this script to be launched
