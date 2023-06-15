@@ -1,2 +1,6 @@
-this repo will be filled with useful bash scripting projects
-
+This repo will be filled with useful bash scripting projects.
+The backup.sh file is a script that save your file from a path "A" to a path 
+"b", if the file was already saved the process won't be repeated, if the file
+is new it gonna be saved in the back-up folder (path "B").
+The compress.sh file is a script that allows you to compress files or folders
+easily.
